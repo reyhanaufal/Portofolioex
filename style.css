@@ -69,12 +69,12 @@ footer .wave {
   background: #f00 url(wave.png);
   background-size: 1000px 100px;
 }
-footer .wave#wave1 {
+/* footer .wave#wave1 {
   z-index: 1000;
   opacity: 1;
   bottom: 0;
-  animation: animateWave 4s linear infinite;
-}
+  animation: animateWave 4s linear infinite; */
+/* } */
 /* @keyframes animateWave {
   0% {
     background-position-x: 1000px;

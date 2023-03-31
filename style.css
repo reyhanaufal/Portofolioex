@@ -66,20 +66,22 @@ footer .wave {
   left: 0;
   width: 100%;
   height: 100px;
-  background: #f00 url(wave.png);
+  background: url(http://127.0.0.1:5500/coba/portofolio/img/wave.png);
   background-size: 1000px 100px;
 }
-/* footer .wave#wave1 {
+footer .wave#wave1 {
   z-index: 1000;
   opacity: 1;
   bottom: 0;
-  animation: animateWave 4s linear infinite; */
-/* } */
-/* @keyframes animateWave {
+  animation: animateWave 4s linear infinite;
+}
+
+/* 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 */
+@keyframes animateWave {
   0% {
     background-position-x: 1000px;
   }
   100% {
     background-position-x: 0px;
   }
-} */
+}
